@@ -33,7 +33,7 @@
 <p align="right">ابتدا این دستور را روی سرور خود اجرا می کنید</p>
   
 ```bash
-bash <(curl -Ls https://github.com/AC-Lover/backup/raw/main/backup.sh)
+bash <(curl -Ls https://github.com/iamtheted/Marzban-Backup/raw/main/backup.sh)
 ``` 
 
 ###
